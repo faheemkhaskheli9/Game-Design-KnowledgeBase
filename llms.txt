@@ -1,0 +1,48 @@
+# Game Design Knowledge Base
+
+> Reference on game design, gameplay and what makes games engaging, for people and AI agents.
+> One topic per Markdown file; INDEX.md has tags and use cases, glossary.md defines terms.
+
+## experience
+
+- [Game feel and juice](experience/game-feel-and-juice.md): Game feel is the tactile, moment-to-moment quality of controlling something in a game: how fast it answers, how it accelerates, how it collides, how it sounds and looks when you act.
+- [Level design and pacing](experience/level-design-and-pacing.md): Level design arranges space, challenges and information so the player is taught, tested, surprised and given rest in a deliberate rhythm.
+- [Multiplayer and social play](experience/multiplayer-and-social-play.md): Multiplayer design shapes how people relate to each other through the game: whether they cooperate or compete, who they are matched with, how bad behaviour is discouraged, and what ties them into a community.
+- [Narrative and player agency](experience/narrative-and-player-agency.md): Game narrative is the story a player experiences through actions as well as words.
+- [Onboarding and tutorials](experience/onboarding-and-tutorials.md): Onboarding is everything between first launch and the moment the player can play the game on their own and wants to continue: first-time user experience (FTUE), tutorials, early levels and the first rewards.
+
+## fundamentals
+
+- [Core gameplay loop](fundamentals/core-gameplay-loop.md): The core loop is the repeating cycle of actions a player performs, the feedback they get, and the reason to go around again.
+- [Flow and difficulty curves](fundamentals/flow-and-difficulty-curves.md): Flow is the state of absorbed engagement that occurs when a challenge matches the player's skill and the goals are clear.
+- [Player motivation and player types](fundamentals/player-motivation-and-player-types.md): Players come to games for different reasons, and the reasons predict which mechanics will please them.
+- [What makes a game fun](fundamentals/what-makes-a-game-fun.md): "Fun" is not one thing.
+
+## mechanics
+
+- [Combat and encounter design](mechanics/combat-and-encounter-design.md): Combat is a conversation between the player's toolset and the enemy's behaviour, and each encounter is a question you ask the player: can you read this, counter it, and manage risk?
+- [Feedback loops and snowballing](mechanics/feedback-loops-and-snowballing.md): A feedback loop is a rule where the output of the system feeds back into its input.
+- [Game balance](mechanics/game-balance.md): Balance is the practice of tuning a game's numbers and relationships so that the intended range of choices is viable, difficulty and rewards feel right, and no option makes the others pointless.
+- [Meaningful choices](mechanics/meaningful-choices.md): A game is largely a stream of decisions.
+- [Randomness and luck](mechanics/randomness-and-luck.md): Randomness adds variety, surprise and a way for weaker players to win sometimes; it also breaks the link between decision and outcome, and humans misjudge streaks.
+
+## process
+
+- [Playtesting and metrics](process/playtesting-and-metrics.md): Playtesting is observing real players with your game to learn what they do, where they get stuck and what they feel.
+- [Prototyping and finding the fun](process/prototyping-and-finding-the-fun.md): Prototyping is building the cheapest thing that can answer one design question, then playing it.
+
+## progression
+
+- [Game economy - sources and sinks](progression/game-economy-sources-and-sinks.md): A game economy is the set of resources, how they enter the game (sources or faucets), how they leave (sinks or drains), and how players convert them.
+- [Progression systems](progression/progression-systems.md): A progression system is the structure through which a player gets better, gets more options, or sees more of the game over time.
+- [Retention and session design](progression/retention-and-session-design.md): Retention is whether players come back; session design is how a single visit is shaped.
+- [Reward schedules and loot](progression/reward-schedules-and-loot.md): A reward schedule is the rule that decides when and how often a player gets something.
+
+## scenarios
+
+- [Design review checklist](scenarios/design-review-checklist.md): A question list for reviewing a game design, feature or mechanic before building it, in the spirit of Schell's lenses.
+- [Scenario chooser - what to read for this design problem](scenarios/scenario-chooser.md): A router from symptoms (playtest complaints, metrics, design goals) to the topic files that address them.
+
+## Optional
+
+- [Glossary](glossary.md): terms linked to the topic that explains each
